@@ -18,11 +18,12 @@ FlossSearch, you will be referring to our local database and not getting real-ti
 
 ## License
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License (GLP) as published by the Free Software Foundation. Information about the GNU General Public License can be found at http://www.gnu.org/licenses/. 
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License (GPL) as published by the Free Software Foundation. Information about the GNU General Public License can be found at http://www.gnu.org/licenses/. 
 
 ## Software Citation
 
-[Cite](./CITATION.cff)
+Britto, M., Lessa, B., & von Flach, C. (2023). flosssearch (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.8339681
+- [Cite](./CITATION.cff)
 
 
 
